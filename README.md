@@ -58,6 +58,15 @@ Lots of vector math that almost drive me crazy
 
 Procedural maze generation, keep in mind that the first 11 levels are fixed.
 
+Also it has some hidden features:
+1) Sectors with different heights
+2) Slopes
+3) Load .MAP files from Duke3D.
+
+In main.love file (line 102) you can play with a variable called currentlevel.
+If you put -1 you will load a demo map that I did like a playground to test maps.
+If you put -2 it will try to load a MAP file (in Duke3D format) - the path is hardcoded, sorry about that.
+
 
 Credits
 -------
