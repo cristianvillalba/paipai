@@ -6,19 +6,11 @@
                |    |     / __ \|  ||    |     / __ \|  |                    
                |____|    (____  /__||____|    (____  /__|                    
                               \/                   \/                        
-                                 .___                                        
-  ____________   ____   ____   __| _/______ __ __  ____   ____   ___________ 
- /  ___/\____ \_/ __ \_/ __ \ / __ |\_  __ \  |  \/    \ /    \_/ __ \_  __ \
- \___ \ |  |_> >  ___/\  ___// /_/ | |  | \/  |  /   |  \   |  \  ___/|  | \/
-/____  >|   __/ \___  >\___  >____ | |__|  |____/|___|  /___|  /\___  >__|   
-     \/ |__|        \/     \/     \/                  \/     \/     \/       
-
-
 
 Hi, 
 
 My name is Cristian Villalba, and I am from Buenos Aires, Argentina.
-This is my final project for CS50's Introduction to Computer Science (I am also chasing the proffessional certificate program, but that's another story).
+This is my final project for CS50's Introduction to Computer Science.
 
 I finally took the path to make a VideoGame with LOVE2D framework.
 I wanted to push myself a little further and keep on learning, so I decided to make a tribute to 2.5D engines such as Wolfenstein/DukeNukem3D that I enjoyed in my youth.
