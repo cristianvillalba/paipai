@@ -28,18 +28,18 @@ Controls
 --------
 
 To move the player:
-up or w - foward
-down or s - backwards
-left - turn left
-right - turn right
-a - strafe left
-d - strafe right
-space - action
+1) up or w - foward
+2) down or s - backwards
+3) left - turn left
+4) right - turn right
+5) a - strafe left
+6) d - strafe right
+7) space - action
 
 At the beginning of each round you have the possibility to chose 3 types of action, selecting them with the 1, 2, or 3 key:
-Action 1 is a shield that pushes enemies away from you
-Action 2 allows you to jump
-Action 3 allows you to shot shurikens.
+1) Action 1 is a shield that pushes enemies away from you
+2) Action 2 allows you to jump
+3) Action 3 allows you to shot shurikens.
 
 Shield can be blocked with shurikens, shurikens can be jumped, and jump is weak against shield
 
@@ -50,11 +50,11 @@ Highlights
 ----------
 
 Rasterizer entirely implemented in LUA:
-Sector/Portals
-View frustum
-Sprites
-Floor
-Lots of vector math that almost drive me crazy
+1) Sector/Portals
+2) View frustum
+3) Sprites
+4) Floor
+5) Lots of vector math that almost drive me crazy
 
 Procedural maze generation, keep in mind that the first 11 levels are fixed.
 
@@ -63,9 +63,9 @@ Also it has some hidden features:
 2) Slopes
 3) Load .MAP files from Duke3D.
 
-In main.love file (line 102) you can play with a variable called currentlevel.
-If you put -1 you will load a demo map that I did like a playground to test maps.
-If you put -2 it will try to load a MAP file (in Duke3D format) - the path is hardcoded, sorry about that.
+In main.love file (line 102) you can play with a variable called currentlevel:
+1) If you put -1 you will load a demo map that I did like a playground to test maps.
+2) If you put -2 it will try to load a MAP file (in Duke3D format) - the path is hardcoded, sorry about that.
 
 
 Credits
