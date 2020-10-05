@@ -71,6 +71,9 @@ In main.love file (line 102) you can play with a variable called currentlevel:
 Credits
 -------
 
+Fabien Sanglard
+https://fabiensanglard.net/duke3d/build_engine_internals.php
+
 Pixel Frog
 https://pixel-frog.itch.io/
 https://pixel-frog.itch.io/pixel-adventure-1
